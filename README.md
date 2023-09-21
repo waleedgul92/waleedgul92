@@ -9,8 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/waleedgul92/projects?authuser=0](https://sites.google.com/view/waleedgul92/projects?authuser=0)
 - 📫 Reach me **hwaleed0035@gmail.com**
-<img src="https://i.pinimg.com/originals/22/81/36/228136787949a85c103a630c753726aa.gif" data-canonical-src="https://i.pinimg.com/originals/22/81/36/228136787949a85c103a630c753726aa.gif" width="200" height="400" />
 - 📄 Know about my experiences [https://drive.google.com/file/d/10zcvqjRqYHLX9y2AoRkF5Tv3EgH2mRRw/view?usp=sharing](https://drive.google.com/file/d/10zcvqjRqYHLX9y2AoRkF5Tv3EgH2mRRw/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
