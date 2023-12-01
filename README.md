@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Science and Deep Learning**
 - 🌱 I’m currently learning **Deep Learning, SQL**
-- 👨‍💻 All of my projects are available at [portfolio-site-34jy.vercel.app/#/](portfolio-site-34jy.vercel.app/#/)
+- 👨‍💻 All of my projects are available at [portfolio-site-34jy.vercel.app/#/](https://portfolio-site-34jy.vercel.app/#/)
 - 📫 Reach me at **hwaleed0035@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/10zcvqjRqYHLX9y2AoRkF5Tv3EgH2mRRw/view?usp=sharing](https://drive.google.com/file/d/10zcvqjRqYHLX9y2AoRkF5Tv3EgH2mRRw/view?usp=sharing)
 
