@@ -11,8 +11,7 @@
 - 📫 Reach me **hwaleed0035@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/10zcvqjRqYHLX9y2AoRkF5Tv3EgH2mRRw/view?usp=sharing](https://drive.google.com/file/d/10zcvqjRqYHLX9y2AoRkF5Tv3EgH2mRRw/view?usp=sharing)
 
-
-<img align="right" src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif" />
+<img align="right" src="https://media.giphy.com/media/xPINMJNlYxEB0xj5nC/giphy.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
