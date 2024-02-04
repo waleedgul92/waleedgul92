@@ -13,10 +13,6 @@ As a passionate and experienced Data Scientist, I have spent 2+ years learning s
 </p>
 <img align="right" src="https://media.giphy.com/media/xPINMJNlYxEB0xj5nC/giphy-downsized-large.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
-
-
-
-
 <ul>
 <li>🌱 I am currently an Undergraduate CS student.</li>
 <li>🔭 Exploring <strong>Machine Learning</strong>, <strong>Deep Learning</strong> and MLOps</strong></li>
