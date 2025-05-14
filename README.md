@@ -1,11 +1,16 @@
-<h2 align="center">Hey 👋, I'm Waleed Gul</h2>
-<h3 align="center">Data Alchemist</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=C9D1D9&background=00000000&center=true&vCenter=true&width=650&multiline=true&lines=Hey+%F0%9F%91%8B%2C+I'm+Waleed+Gul;A+Passionate+Data+Alchemist;Turning+Data+into+Actionable+Insights!;Constantly+Learning+%26+Exploring+ML%2FDL+%E2%9C%A8" alt="Typing SVG - Hey, I'm Waleed Gul; A Passionate Data Alchemist; Turning Data into Actionable Insights!; Constantly Learning & Exploring ML/DL" />
+  </a>
+</p>
 
 <p align="center">
   As a passionate Data Scientist with 2+ years of experience, I specialize in Machine Learning and crafting clean, manageable code.
   <br />
   I'm always eager to explore the latest technologies and techniques in the data science landscape.
 </p>
+
+<h3 align="center">🔗 Connect with Me</h3>
 
 <p align="center">
   <a href="https://portfolio-site-34jy.vercel.app/#/">
@@ -30,14 +35,12 @@
   <li>🌱 I am currently an Undergraduate CS student.</li>
   <li>🔭 Exploring <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>MLOps</strong>.</li>
   <li>📙 Check out my <a href="https://drive.google.com/file/d/10zcvqjRqYHLX9y2AoRkF5Tv3EgH2mRRw/">resume</a>.</li>
-  <li>📫 How to reach me: <strong>your.email@example.com</strong> (Replace with your actual email)</li>
+  <li>📫 How to reach me: <strong>waleedgul92@gmail.com</strong> (Adjust if this is not your preferred contact email)</li>
 </ul>
-
----
 
 ## ⚒️ Tools and Libraries
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>&nbsp;
@@ -59,7 +62,7 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <br class="d-md-none" /><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
@@ -84,9 +87,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waleedgul92&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Waleed's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=waleedgul92&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=79ff97&title_color=79ff97" alt="Waleed's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedgul92&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Waleed's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedgul92&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=79ff97" alt="Waleed's Top Languages"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleedgul92&theme=radical&hide_border=true&background=0D1117" alt="Waleed's GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleedgul92&theme=radical&hide_border=true&background=0D1117&stroke=C9D1D9&ring=79ff97&fire=79ff97&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="Waleed's GitHub Streak"/>
 </p>
