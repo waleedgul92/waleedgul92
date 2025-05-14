@@ -29,7 +29,7 @@
 ## ⚡️ A Few Quick Facts
 
 <ul>
-  <li>🌱 I am currently an Undergraduate CS student.</li>
+  <li>🌱 I am currently an Postgraduate student doing MS-AI.</li>
   <li>🔭 Exploring <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>MLOps</strong>.</li>
   <li>📙 Check out my <a href="https://drive.google.com/file/d/10zcvqjRqYHLX9y2AoRkF5Tv3EgH2mRRw/">resume</a>.</li>
   <li>📫 How to reach me: <strong>waleedgul92@gmail.com</strong> (Adjust if this is not your preferred contact email)</li>
