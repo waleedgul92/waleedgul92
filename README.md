@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=C9D1D9&background=00000000&center=true&vCenter=true&width=650&multiline=true&lines=Hey+%F0%9F%91%8B%2C+I'm+Waleed+Gul;A+Passionate+Data+Alchemist;Turning+Data+into+Actionable+Insights!;Constantly+Learning+%26+Exploring+ML%2FDL+%E2%9C%A8" alt="Typing SVG - Hey, I'm Waleed Gul; A Passionate Data Alchemist; Turning Data into Actionable Insights!; Constantly Learning & Exploring ML/DL" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=C9D1D9&background=00000000&center=true&vCenter=true&width=650&multiline=true&lines=Hey+%F0%9F%91%8B%2C+I'm+Waleed+Gul;A+Passionate+Data+Alchemist;Turning+Data+into+Actionable+Insights!;Constantly+Learning+%26+Exploring+ML%2FDL+%E2%9C%A8" alt="Typing SVG - Hey, I'm Waleed Gul; A Passionate Data Alchemist; Turning Data into Actionable Insights!; Constantly Learning & Exploring ML/DL" />
+  </a>
 </p>
 
 <p align="center">
@@ -11,10 +13,15 @@
 <h3 align="center">🔗 Connect with Me</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>&nbsp;
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>&nbsp;
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  <a href="https://portfolio-site-34jy.vercel.app/#/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/waleedgul92/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://medium.com/@hwaleed0035" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
 </p>
 
 <img align="right" src="https://media.giphy.com/media/xPINMJNlYxEB0xj5nC/giphy-downsized-large.gif" width="300" alt="Coding GIF" />
