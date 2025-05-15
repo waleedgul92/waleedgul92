@@ -1,7 +1,5 @@
 <p align="center">
-<!--   <a href="https://git.io/typing-svg"> -->
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=C9D1D9&background=00000000&center=true&vCenter=true&width=650&multiline=true&lines=Hey+%F0%9F%91%8B%2C+I'm+Waleed+Gul;A+Passionate+Data+Alchemist;Turning+Data+into+Actionable+Insights!;Constantly+Learning+%26+Exploring+ML%2FDL+%E2%9C%A8" alt="Typing SVG" />
-<!--   </a> -->
 </p>
 
 <p align="center">
@@ -32,7 +30,7 @@
       </ul>
     </td>
     <td style="padding-left: 40px;">
-      <img src="https://static.wikia.nocookie.net/a29e9cd8-d5cc-4c5a-a161-7c243b5084eb/scale-to-width/370" width="450" alt="Fun GIF" />
+      <img src="https://static.wikia.nocookie.net/a29e9cd8-d5cc-4c5a-a161-7c243b5084eb/scale-to-width/370" width="250" alt="Fun GIF" />
     </td>
   </tr>
 </table>
@@ -55,12 +53,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
-<!--   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-<!--   </a> -->
 </p>
-
----
 
 ## 📊 GitHub Stats
 
