@@ -11,7 +11,7 @@
 <h3 align="center">🔗 Connect with Me</h3>
 
 <p align="center">
-  📂 <a href="https://portfolio-site-34jy.vercel.app/#/" target="_blank" rel="noreferrer">Portfolio</a> &nbsp;|&nbsp;
+  📂 <a href="https://portfolio-site-34jy.vercel.app/home" target="_blank" rel="noreferrer">Portfolio</a> &nbsp;|&nbsp;
   💼 <a href="https://www.linkedin.com/in/waleedgul92/" target="_blank" rel="noreferrer">LinkedIn</a> &nbsp;|&nbsp;
   ✍️ <a href="https://medium.com/@hwaleed0035" target="_blank" rel="noreferrer">Medium</a> &nbsp;|&nbsp;
   📊 <a href="https://www.kaggle.com/waleedgul" target="_blank" rel="noreferrer">Kaggle</a>
@@ -23,7 +23,7 @@
   <tr>
     <td>
       <ul>
-        <li>🌱 I am currently an Undergraduate CS student.</li>
+        <li>🌱 I am currently Postgrade AI student.</li>
         <li>🔭 Exploring <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and Game Development.</li>
         <li>🧑‍💻 Most of my projects are available on my <a href="https://portfolio-site-34jy.vercel.app/#/" target="_blank" rel="noreferrer">portfolio</a> or my <a href="https://github.com/waleedgul92" target="_blank" rel="noreferrer">Github</a> account.</li>
         <li>📧 Feel free to reach out to me on <a href="https://www.linkedin.com/in/waleedgul92/" target="_blank" rel="noreferrer">linkedin</a>.</li>
