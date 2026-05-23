@@ -22,17 +22,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm an **AI Engineer and ML Researcher** based in 📍 London, UK, currently completing my **MSc in Artificial Intelligence** at London Metropolitan University. My work sits at the intersection of privacy, trustworthiness, and real-world AI — building systems that are not only accurate but also explainable and secure.
-
-My MSc thesis focuses on **DP-FedSHAP**, a privacy-preserving federated learning framework for financial fraud detection that combines Differential Privacy with SHAP-based explainability — reducing membership inference attack success from ~62% down to ~47.5% without sacrificing model interpretability.
-
-Beyond research, I build production-ready AI systems — from **multi-agent LLM pipelines** and **RAG architectures** to **MLOps infrastructure** and **local LLM deployments**. I believe the best AI work is the kind that bridges the gap between cutting-edge research and real-world impact.
-
-- 🎓 **MSc Artificial Intelligence** — London Metropolitan University (2025–2026)
-- 🔬 **Research focus:** Federated Learning · Differential Privacy · Explainable AI
-- 🛠️ **Engineering focus:** LLM Systems · RAG · MLOps · Agentic AI
-- 🌱 **Currently:** Finalising thesis & actively seeking ML/AI Engineer roles
-- 📬 **Best way to reach me:** [LinkedIn](https://www.linkedin.com/in/waleedgul92/)
+- 🎓 MSc Artificial Intelligence — London Metropolitan University
+- 🔬 Researching **Federated Learning**, **Differential Privacy** & **Explainable AI**
+- 🛠️ Building with **LLMs**, **RAG pipelines**, **MLOps** & **Agentic AI**
+- 📍 Based in London, UK — open to ML/AI roles globally
+- 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/waleedgul92/)
 
 ---
 
