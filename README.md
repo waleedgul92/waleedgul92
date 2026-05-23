@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Waleed%20Gul&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Data%20Scientist&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1200&color=58A6FF&background=00000000&center=true&vCenter=true&width=700&lines=🧠+Building+Privacy-Preserving+AI+Systems;🔬+MSc+AI+Researcher+%40+London+Met;🚀+RAG+%7C+MLOps+%7C+Federated+Learning;🌍+Turning+Research+into+Real-World+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1200&color=58A6FF&background=00000000&center=true&vCenter=true&width=700&lines=Building+Privacy-Preserving+AI+Systems;MSc+AI+Researcher+%40+London+Met;RAG+%7C+MLOps+%7C+Federated+Learning;Turning+Research+into+Real-World+Impact" alt="Typing SVG" />
 
 <br/>
 
