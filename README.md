@@ -59,16 +59,16 @@ A federated learning framework for financial fraud detection that combines:
 ---
 
 ## 🚀 Featured Projects
-
 <div align="center">
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🔐 **DP-FedSHAP** | Privacy-preserving FL system with SHAP explainability for fraud detection | XGBoost · Flower · Differential Privacy · SHAP |
-| 🤖 **Apex Synthesis** | Multi-agent AI hiring pipeline (BMW Hackathon 2026) | n8n · Gemini 2.5 Flash · React · FastAPI |
-| 📚 **RAG Pipeline** | Production-grade Retrieval-Augmented Generation system | LangChain · FAISS · FastAPI · Streamlit |
-| 🧬 **Blog Agent** | Multi-agent blog generation with real-time web research | LangGraph · Gemini · Tavily Search |
-| 🖥️ **OpenClaw + Gemma 4** | Local LLM integration with SSE streaming & model discovery | FastAPI · Gemma 4 (4-bit) · CORS · RTX 4060 |
+| 🔐 [**DP-FedSHAP**](https://github.com/waleedgul92/Research-Project) | Privacy-preserving FL system with SHAP explainability for fraud detection | XGBoost · Flower · Differential Privacy · SHAP |
+| 🤖 [**Apex Synthesis**]((https://github.com/waleedgul92/Apex-Synthesis)) | Multi-agent AI hiring pipeline (BMW Hackathon 2026) | n8n · Gemini 2.5 Flash · React · FastAPI |
+| 📚 [**RAG Pipeline**](#) | Production-grade Retrieval-Augmented Generation system | LangChain · FAISS · FastAPI · Streamlit |
+| 🧬 [**Blog Agent**](https://github.com/waleedgul92/Blog-Writing-Agent) | Multi-agent blog generation with real-time web research | LangGraph · Gemini · Tavily Search |
+| 📝 [**Caption Crafter**] (# ) | Context-aware social media caption generator and optimizer | Gemini 2.5 Flash · Streamlit · Python |
+| 📊 [**Receipt2Sheet**](#) | Automated expense tracker parsing receipts into structured spreadsheets | FastAPI · OCR · Google Sheets API · Docker |
 
 </div>
 
