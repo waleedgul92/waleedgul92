@@ -64,14 +64,13 @@ A federated learning framework for financial fraud detection that combines:
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🔐 [**DP-FedSHAP**](https://github.com/waleedgul92/Research-Project) | Privacy-preserving FL system with SHAP explainability for fraud detection | XGBoost · Flower · Differential Privacy · SHAP |
-| 🤖 [**Apex Synthesis**]((https://github.com/waleedgul92/Apex-Synthesis)) | Multi-agent AI hiring pipeline (BMW Hackathon 2026) | n8n · Gemini 2.5 Flash · React · FastAPI |
-| 📚 [**RAG Pipeline**](#) | Production-grade Retrieval-Augmented Generation system | LangChain · FAISS · FastAPI · Streamlit |
+| 🤖 [**Apex Synthesis**](https://github.com/waleedgul92/Apex-Synthesis) | Multi-agent AI hiring pipeline (BMW Hackathon 2026) | n8n · Gemini 2.5 Flash · React · FastAPI |
+| 📚 [**DataBot**](https://github.com/waleedgul92/DataBot-Data-Answer-Tool) | Production-grade PDF Q&A system parsing complex technical texts | Gemini Pro · LangChain · ChromaDB · Streamlit |
 | 🧬 [**Blog Agent**](https://github.com/waleedgul92/Blog-Writing-Agent) | Multi-agent blog generation with real-time web research | LangGraph · Gemini · Tavily Search |
-| 📝 [**Caption Crafter**] (# ) | Context-aware social media caption generator and optimizer | Gemini 2.5 Flash · Streamlit · Python |
-| 📊 [**Receipt2Sheet**](#) | Automated expense tracker parsing receipts into structured spreadsheets | FastAPI · OCR · Google Sheets API · Docker |
+| 📝 [**Caption Crafter**](https://github.com/waleedgul92/CaptionCrafter) | Context-aware social media caption generator and optimizer | Gemini 2.5 Flash · Streamlit · Python |
+| 📊 [**Receipt2Sheet**](https://github.com/waleedgul92/Receipt2Sheet-2.0) | Automated expense tracker parsing receipts into structured spreadsheets | FastAPI · OCR · Google Sheets API · Docker |
 
 </div>
-
 ---
 
 ## ⚙️ Tech Stack
